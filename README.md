@@ -1,3 +1,14 @@
+#REACT MOVIE SEARCHING APP
+COMPANY: CODETECH IT SOLUTIONS
+NAME: DEV MANDLOI
+INTERN ID: CT04DN79
+DOMAIN: REACT.JS WEB DEVELOPMENT
+DURATION: 4 WEEKS
+MENTOR: NEELA SANTHOSH KUMAR
+
+
+
+
 <h1>🎬 React Movie Search App</h1>
 Welcome to the React Movie Search App created by Syed Maaz Saeed! This app is a simple and intuitive platform that allows you to search for your favorite movies and discover new films with ease. Dive into the world of cinema and explore movie details right at your fingertips. 🎥🍿
 
